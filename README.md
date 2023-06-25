@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on development mobile with React Native
-- 🌱 I’m currently learning Typescript and Web3
+- 🔭 I’m currently working on full-stack development
+- 🌱 I’m proficient in Next.js 13, React.js, and React Native
 - 📫 How to reach me: egberto.duarte.14@gmail.com
-- 💼 Software engineer at [Multiplicar Banks S/A](https://multiplicarinvestimentos.com.br/)
+- 💼 I´ am a freelancer on Upwork, and I'm available for a new job
 
 <div align="center">
   <a href="https://github.com/Oliveira-86">
