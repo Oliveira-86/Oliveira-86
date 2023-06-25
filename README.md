@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on full-stack development
-- 🌱 I’m proficient in Next.js 13, React.js, and React Native
+- 🔭 I’m a Full-stack developer 
+- 🌱 I’m proficient in Next.js 13, React.js, RN, and Node.js
 - 📫 How to reach me: egberto.duarte.14@gmail.com
 - 💼 I´ am a freelancer on Upwork, and I'm available for a new job
 
