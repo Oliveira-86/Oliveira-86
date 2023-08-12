@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Full-stack developer 
 - 🌱 I’m proficient in Next.js 13, React.js, React Native, and Node.js
-- 📫 How to reach me: egberto.duarte.14@gmail.com
+- 📫 How to reach me: https://deveg.vercel.app/en
 - 💼 I´ am a freelancer on Upwork, and I'm available for a new job
 
 <div align="center">
