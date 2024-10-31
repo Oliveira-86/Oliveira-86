@@ -4,7 +4,7 @@
 - 🔭 I’m a Full-stack developer 
 - 🌱 I’m proficient in Next.js 14, React.js, React Native, and Node.js
 - 📫 How to reach me: https://deveg.vercel.app/en 
-- 💼 I´ am a freelancer on Upwork, and I'm available for a new job
+- 💼 I'm available for a new opportunity
 
 <div align="center">
   <a href="https://github.com/Oliveira-86">
